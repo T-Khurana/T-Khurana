@@ -18,6 +18,9 @@
 
 ### Currently learning: 
 <img height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" /> <img height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />  <img height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />
+
+# Let's Connect!
+<img href= "mailto:khurana.tanmay@gmail.com" src="https://img.icons8.com/fluency/48/000000/gmail.png"/>                        [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/imtanmay2207/)                             [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanmay-khurana/)
           
           
 
