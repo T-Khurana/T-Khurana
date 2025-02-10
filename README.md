@@ -4,8 +4,8 @@
           <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="350" />
  </p>
 
-# About Me! :technologist: 
-- Software Engineer at Cisco Systems, Canada
+# About Me
+- 👨‍💻 Software Engineer at Cisco Systems, Canada
 - :man_student: Bachelor's in Applied Sciences, Computer Engineering, University of Waterloo
 - :technologist: I’m interested in Cloud and Networking techonologies
 - 💞️ I’m looking to collaborate on anything that sparks my interest, so feel free to reach out!
