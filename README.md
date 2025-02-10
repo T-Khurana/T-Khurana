@@ -5,8 +5,9 @@
  </p>
 
 # About Me! :technologist: 
-- :man_student: Currently a student at the University of Waterloo
-- :technologist: I’m interested in Cloud technologies, Backend development, building new things and inverting binary trees
+- Software Engineer at Cisco Systems, Canada
+- :man_student: Bachelor's in Applied Sciences, Computer Engineering, University of Waterloo
+- :technologist: I’m interested in Cloud and Networking techonologies
 - 💞️ I’m looking to collaborate on anything that sparks my interest, so feel free to reach out!
 
 # 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
